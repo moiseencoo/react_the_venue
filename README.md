@@ -1,4 +1,4 @@
-Simple landing page that consist of React Components
+Simple landing page that is made with React.js
 
 Used libraries:
 - Material UI ( https://material-ui.com/ )
